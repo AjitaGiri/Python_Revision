@@ -1,5 +1,4 @@
 #sum of even numbers
-'''
 n=int(input('enter a number:'))
 total=0
 for i in range(1,n+1):
@@ -44,7 +43,7 @@ while True:
     num=int(input("enter a number: "))
     if num>=1 and num<=10:
         break
-'''
+
 # check if a number is prime
 num=int(input('Enter a number: '))
 if num>1:
