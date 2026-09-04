@@ -96,25 +96,4 @@ class Order:
           
 o1=Order('Apple',500)
 o2=Order('Banana',200)
-print(o1>o2)
-                                                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+print(o1>o2)                        
